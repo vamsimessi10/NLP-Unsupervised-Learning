@@ -29,3 +29,8 @@ Then the Euclidean distance helps us to actually identify the user's distance fr
 This distance is used as an input for the clustering
 DBScan, K-Means aren' published in the Notebook(As they were already within the system)
 Heirarchical Clusterig was done to test the data to see new clusters 
+
+
+FInal Takeaways:
+
+The 2 outputs we had should go hand in hand to identify clusters and user patters
