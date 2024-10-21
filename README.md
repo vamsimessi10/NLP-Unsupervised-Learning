@@ -1,5 +1,8 @@
 # NLP-Unsupervised-Learning
 
+![Process](https://github.com/user-attachments/assets/55903eb5-e71f-4f87-91ae-396a15f93249)
+
+
 - The organization which collects this data is focused on Improving decisions and getting better results with the Simulation tool built 
 - The simulation played by the client's employees would capture several aspects of the individuals which serve as inputs to understand the overall organizational culture 
 - The simulation tool built in collates the inputs from the end users(usually client’s employees) and presents several reports 
@@ -34,3 +37,5 @@ Heirarchical Clusterig was done to test the data to see new clusters
 FInal Takeaways:
 
 The 2 outputs we had should go hand in hand to identify clusters and user patters
+
+
